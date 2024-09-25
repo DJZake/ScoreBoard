@@ -7,7 +7,6 @@
   body {
     /* height: 100vh; */
     background-image: url("img/cemunnar.jpeg");
-    width: 100%;
   }
   .scoreboard {
     background-color: #1e1e21;
@@ -76,5 +75,7 @@
     .team button {
       font-size: 1em;
     }
-    
+    .logo{
+      width: 30%;
+    }
   }
